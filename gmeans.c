@@ -2,7 +2,7 @@
  * try.c
  *
  *  Created on: Mar 30, 2018
- *      Author: Rasika, Satish
+ *      
  */
 
 #include <stdio.h>
